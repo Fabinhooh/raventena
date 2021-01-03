@@ -1,5 +1,5 @@
 function Home() {
-    return <div>Raventena 2.0</div>
+    return <div>Raventena 3.0</div>
 }
 
 export default Home
